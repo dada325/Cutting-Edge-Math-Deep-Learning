@@ -10,3 +10,8 @@
 ## 04. Deep Q-Learning testing with env Cartpole, still not stable
 
   <img width="657" alt="Screenshot 2023-08-17 at 14 55 55" src="https://github.com/dada325/DeepLearningStepbyStep/assets/7775973/78a75126-3f3d-4f62-8682-80ca84658b27">
+
+## 05. DDPG testing with Pendulumn, 
+
+
+<img width="710" alt="Screenshot 2023-08-17 at 16 10 05" src="https://github.com/dada325/DeepLearningStepbyStep/assets/7775973/8593bae2-fe8f-48e1-84f6-366d39ecfbf6">
