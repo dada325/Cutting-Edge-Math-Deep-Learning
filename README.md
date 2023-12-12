@@ -1,6 +1,6 @@
-# DeepLearningStepbyStep
+# DeepLearning
 
-### This is a not modular version of each of the beginner algorithm of deep learning 
+
 
 ## 03. Q-Learning with Epsilon decay, the average score is 7.76 with 100 episodes
   
